@@ -73,40 +73,23 @@ Student at Indian Institute of Technology, Guwahati | Blockchain Developer | Ful
 Javascript, HTML, CSS, ReactJs, Solidity, EtherJs, Web3Js, Hardhat, MongoDB, NodeJs, Python, Tailwind, MySql
 ## Installation
 
-Install my-project with npm
+Clone the project
 
 ```bash
+  git clone https://github.com/PNL-Pro-NFT-League/League_Of_NFTs_backend.git
+```
+
+Install my-project with npm
+Install dependencies
+
+```bash
+  
   npm install 
   
-  cd frontend
-  npm install
 ```
     
 ## Run Locally
 
-Clone the project
-
 ```bash
-  git clone https://github.com/canbethegodfatherofyourlife/pnl_f.git
-```
-
-Go to the project directory
-
-```bash
-  cd frontend
-```
-
-Install dependencies
-
-```bash
-  npm install ( once in root directory and once inside frontend)
-```
-
-Start the server
-
-```bash
-  npm start ( for MongoDB Backend)
-
-  cd frontend
   npm start
 ```
